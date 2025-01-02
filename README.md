@@ -14,7 +14,7 @@ The script is located in the `index.js` file of this repository. Copy the entire
 2. Go to the bookmarks manager.
 3. Create a new bookmark:
    - Set a name for the bookmark (e.g., "Turbo Tapper").
-   - Paste the script into the URL/link field of the bookmark, ensuring it starts with `javascript:`.
+   - Paste contents of the `index.js` file into the URL/link field of the bookmark, ensuring it starts with `javascript:`.
 
 ![image](https://github.com/user-attachments/assets/2b6795ed-45b1-45b9-9e70-ffcae002ea64)
 
