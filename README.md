@@ -16,7 +16,11 @@ The script is located in the `index.js` file of this repository. Copy the entire
    - Set a name for the bookmark (e.g., "Turbo Tapper").
    - Paste the script into the URL/link field of the bookmark, ensuring it starts with `javascript:`.
 
+![image](https://github.com/user-attachments/assets/2b6795ed-45b1-45b9-9e70-ffcae002ea64)
+
+
 ### 3. Run the Script
 1. Navigate to the **Turbo Tap** page.
-2. Click the bookmark you created. 
-3. Done
+2. Click the bookmark you created.
+3. You can click it multiple times (3-5) to muliply the clicking
+4. Done
